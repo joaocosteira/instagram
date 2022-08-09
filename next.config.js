@@ -7,7 +7,8 @@ const nextConfig = {
     'links.papareact.com',
     'upload.wikimedia.org',
     '1000logos.net',
-    'avatars.githubusercontent.com'
+    'avatars.githubusercontent.com',
+    "en.wikipedia.org"
   ]
 }
 }
