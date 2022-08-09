@@ -6,3 +6,5 @@ This project is part of of a [tutorial series](https://www.youtube.com/watch?v=a
 - React
 - Tailwind
 - Faker.js
+- Heroicons
+- tailwindcss
