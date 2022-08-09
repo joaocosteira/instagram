@@ -9,3 +9,4 @@ This project is part of of a [tutorial series](https://www.youtube.com/watch?v=a
 - Heroicons
 - tailwindcss
 - tailwind-scrollbar
+-  Custom Log page with Next Auth
