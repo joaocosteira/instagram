@@ -8,3 +8,4 @@ This project is part of of a [tutorial series](https://www.youtube.com/watch?v=a
 - Faker.js
 - Heroicons
 - tailwindcss
+- tailwind-scrollbar
