@@ -5,7 +5,7 @@ import { PlusCircleIcon, PaperAirplaneIcon, UserGroupIcon, HeartIcon } from '@he
 const Header = () => {
 
     return(
-        <div className="shadow-sm border-b-1 bg-white sticky top-0 <-50">
+        <div className="shadow-sm border-b-1 bg-white sticky top-0 z-50">
             <div className="flex justify-between max-w-6xl mx-5 xl:mx-auto">
 
                 {/**Left */}
