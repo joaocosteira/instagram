@@ -8,5 +8,8 @@ This project is part of of a [tutorial series](https://www.youtube.com/watch?v=a
 - Faker.js
 - Heroicons
 - tailwindcss
+- Headless UI
 - tailwind-scrollbar
 -  Custom Log page with Next Auth
+- State management with recoil
+## Estou em 4:01:
