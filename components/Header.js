@@ -13,7 +13,6 @@ const Header = () => {
     const [open,setOpen] = useRecoilState(modalState);
     const router = useRouter();
 
-    console.log("open",open);
 
 
     return(

@@ -49,7 +49,6 @@ const Posts = () => {
             snapshot =>{ setPosts(snapshot.docs) })
     ,[db])
 
-    console.log("posts",posts)
     return(
         <div>
             {/**Iterate throu all the posts... */}
