@@ -12,4 +12,3 @@ This project is part of of a [tutorial series](https://www.youtube.com/watch?v=a
 - tailwind-scrollbar
 -  Custom Log page with Next Auth
 - State management with recoil
-## Estou em 4:08:
